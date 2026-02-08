@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# AWS
+.aws/
+*.pem
+
+# Environment variables
+.env
+.env.local
+
+# Model files
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Data
+*.csv
+*.json
+*.parquet
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
