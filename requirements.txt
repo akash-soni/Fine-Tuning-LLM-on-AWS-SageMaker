@@ -1,5 +1,5 @@
 ipykernel
-transformers==4.44.2
+transformers==4.53.0
 datasets==2.19.1
 sagemaker
 boto3
